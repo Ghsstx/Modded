@@ -227,8 +227,8 @@ local Tab3 = Window:Tab("Player",false)
 Tab3:Label("Player Scripts")
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "SosWare";
-    Text = "Welcome";
+    Title = "Quer Nuker Hub";
+    Text = "https://discord.gg/rSKm8UsA";
     Icon = "RBXID OR BLANK";
     Duration = "DURATION IN SECONDS";
     callbakc = bindableFunction;
